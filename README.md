@@ -18,7 +18,7 @@ This repository contains a CLI-based Python application. The script is user-frie
 • english sub coming soon
 [Link](https://youtu.be/nWBC6i0uSb0?si=aFokD0_5lCv7JmGh)
 
-[![Star on GitHub]([https://img.shields.io/github/stars/nxt-owner/CodexAI-Image?style=social](https://github.com/user-attachments/assets/9e70313f-14a7-43bf-a2c1-653ce1df56ad))](https://youtu.be/nWBC6i0uSb0?si=aFokD0_5lCv7JmGh)
+[![Watch the video](https://img.youtube.com/vi/nWBC6i0uSb0/maxresdefault.jpg)](https://youtu.be/nWBC6i0uSb0?si=aFokD0_5lCv7JmGh)
 
 
 ---
