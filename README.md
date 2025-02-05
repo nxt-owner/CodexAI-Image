@@ -43,7 +43,8 @@ This repository contains a CLI-based Python application. The script is user-frie
 
 ## ScreenShots
 
-![image](https://github.com/user-attachments/assets/82ae548e-891b-4482-b839-4b78ac04d689)
+![image](https://github.com/user-attachments/assets/35faa9e3-ead1-4cc5-9683-0d072ca6a870)
+
 
 
 
